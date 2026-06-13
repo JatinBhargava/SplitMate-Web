@@ -1,0 +1,4 @@
+project_id = "tzvgmjszxxmtewmwacpv"
+
+[functions.api-shared-view]
+verify_jwt = false

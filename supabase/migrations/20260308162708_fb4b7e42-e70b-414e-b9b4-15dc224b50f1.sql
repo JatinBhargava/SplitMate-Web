@@ -1,0 +1,1 @@
+CREATE POLICY "Anyone can delete settlements" ON public.settlements FOR DELETE USING (true);
